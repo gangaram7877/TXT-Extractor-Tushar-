@@ -12,14 +12,14 @@
             "description": "25990751",
             "value": "",
             "required": true
-        },
+        }, un
         "API_HASH": {
             "description": "44291f34419f5a8fc09459c7f52f1d4b",       
             "value": "",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "7024064150:AAGAoFiKzTJRlEkabr3GTvFHGRMPoDxU2BM",
+            "description": "7279540829:AAF081k17j_U4R3NQGFBTpZ4h_wnNf48GEM",
             "value": "",
             "required": true
         }
