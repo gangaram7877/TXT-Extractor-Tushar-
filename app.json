@@ -9,17 +9,17 @@
     ],
     "env": {
             "API_ID": {
-            "description": "25990751",
+            "description": "20913174",
             "value": "",
             "required": true
         }, 
         "API_HASH": {
-            "description": "44291f34419f5a8fc09459c7f52f1d4b",       
+            "description": "9b735bf97411081ffc34da861deeae00",       
             "value": "",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "7279540829:AAF081k17j_U4R3NQGFBTpZ4h_wnNf48GEM",
+            "description": "8179116879:AAF2ERstBXz-RnTYeskuZJBB-KVYLPKlLOo",
             "value": "",
             "required": true
         }
